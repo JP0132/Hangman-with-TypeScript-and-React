@@ -8,11 +8,12 @@
 * Created a custom hook, to simplfy the code in the component and allow the logic to be reused.  
 * TypeScript allowed to ensure only a certain type can be passed, ensuring the correct data is sent within the props.  
 * The design of the game was created in the mind of old school blackboard.  
-* Keyboard events are used to allow the user to use their keyboard for inputting the numbers.   
+* Keyboard events are used to allow the user to use their keyboard for inputting the numbers.  
+* Add Confetti when the user guesses the word correctly, to make it feel more exticiting.  
 
 ## How it works and looks  
 
-### Hangman demo
+### Hangman demo  
 
 ## How to run  
 
