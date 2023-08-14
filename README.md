@@ -15,6 +15,10 @@
 
 ### Hangman demo  
 
+
+https://github.com/JP0132/Hangman-with-TypeScript-and-React/assets/78804278/5523b8d3-5348-4f1d-9bc3-f3ac4dc2ce7f
+
+
 ## How to run  
 
 ### Prerequisites  
